@@ -1,0 +1,6 @@
+{
+  "name": "Silly SMP",
+  "description": "A Pure Vanilla Survival Minecraft SMP website with real-time player status, rules, and community info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
